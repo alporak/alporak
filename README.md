@@ -28,22 +28,22 @@
 
 <h4 align="center">Embedded Programming:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp" alt="embedded" title="embedded"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp" alt="C,C++" title="embedded"/>
 </p>
 
 <h4 align="center">Front End:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,react" alt="frontend" title="frontend"/>
+    <img src="https://skillicons.dev/icons?i=figma,react" alt="Figma, React Native" title="frontend"/>
 </p>
 
 <h4 align="center">Back End:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,ts" alt="backend" title="backend" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,ts" alt="Javascript/Typescript, NodeJS" title="backend" />
 </p>
 
 <h4 align="center">Tools:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,ps,postman,bash" alt="tools" title="tools"/>    
+    <img src="https://skillicons.dev/icons?i=git,linux,ps,postman,bash" alt="Git, Bash, Photoshop, Postman" title="tools"/>    
 </p>
 
 ***
