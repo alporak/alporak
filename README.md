@@ -1,10 +1,12 @@
 <h1 align="center">Alp Sezer Orak</h1>
-<h3 align="center">Embedded Software Developer | C | Open Source Enthusiast</h3>
+<h3 align="center">Senior Embedded Software Developer | C/C++ | IoT Architect</h3>
 
 ***
 
 <h3 align="center">About Me</h3>
-<p align="center">Electronics Engineer specializing in Embedded Programming for IoT. Creating a smarter future with expertise in C, C++, JavaScript (NodeJS), Python, and more. Currently, an Embedded Software Developer at Teltonika Telematics, focusing on fleet management devices.</p>
+<p align="center">
+Senior Electronics Engineer turning silicon into smart, global logistics reality. I specialize in architecting stable firmware scaled across millions of IoT devices, with deep expertise in low-level connectivity (TLS, Cellular, CAN-bus) and full-stack edge-to-cloud integration. Currently leading firmware initiatives at Teltonika Telematics.
+</p>
 
 ***
 
@@ -19,41 +21,45 @@
 
 <h3 align="center">Skills</h3>
 
+<h4 align="center">Embedded & Low-Level:</h4>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash" alt="Embedded" title="Embedded"/>
+</p>
+<p align="center">
+  <span title="RTOS">🧠 RTOS (Nucleus, Zephyr) </span>|
+  <span title="Protocols">📡 CAN-bus, OBD-II, TLS, MQTT</span>
+</p>
+
 <h4 align="center">Hardware Design:</h4>
 <p align="center">
-  <span title="Fusion 360">🔧3D Design with Fusion 360 </span>|
-  <span title="KiCad">🔧 KiCAD </span>|
-  <span title="Solidworks PCB">🔧 Solidworks PCB</span>
+  <span title="Fusion 360">🔧 3D Design (Fusion 360) </span>|
+  <span title="Altium">🔧 Altium Designer </span>|
+  <span title="KiCad">🔧 KiCAD</span>
 </p>
 
-<h4 align="center">Embedded Programming:</h4>
+<h4 align="center">Software & Full-Stack:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp" alt="C,C++" title="embedded"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,figma" alt="Fullstack" title="Fullstack" />
 </p>
 
-<h4 align="center">Front End:</h4>
+<h4 align="center">Tools & Workflow:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=figma,react" alt="Figma, React Native" title="frontend"/>
+    <img src="https://skillicons.dev/icons?i=git,postman,docker" alt="Tools" title="Tools"/>    
 </p>
-
-<h4 align="center">Back End:</h4>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,ts" alt="Javascript/Typescript, NodeJS" title="backend" />
-</p>
-
-<h4 align="center">Tools:</h4>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,ps,postman,bash" alt="Git, Bash, Photoshop, Postman" title="tools"/>    
+  <span title="Agile">🚀 Agile (Scrum, SAFe) </span>|
+  <span title="Testing">🧪 Unit Testing</span>
 </p>
 
 ***
 
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alporak&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=alporak&theme=tokyonight-duo">
-    <img src="https://streak-stats.demolab.com/?user=alporak&theme=tokyonight-duo" alt="GitHub Streak" />
-  </a>
+    <img src="https://streak-stats.demolab.com/?user=alporak&theme=tokyonight-duo" alt="GitHub Streak" />
+  </a>
 </p>
